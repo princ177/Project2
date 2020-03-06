@@ -1,4 +1,4 @@
-package project2;
+
 public class BattleBoatsBoard {
 	int[][] board;
 	int shots;

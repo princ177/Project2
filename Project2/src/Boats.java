@@ -1,4 +1,3 @@
-package project2;
 
 public class Boats {
 	int length;
