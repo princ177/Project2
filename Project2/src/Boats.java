@@ -1,4 +1,3 @@
-
 public class Boats {
 	int length;
 	public Boats(int length) {
